@@ -545,8 +545,9 @@ section {
     border-radius: 20px;
     font-weight: 600;
     white-space: nowrap;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
     z-index: 2;
+    position: relative;
 }
 
 .timeline-content {
@@ -556,6 +557,7 @@ section {
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     width: 45%;
     position: relative;
+    min-height: 120px;
 }
 
 .timeline-item:nth-child(odd) .timeline-content {
