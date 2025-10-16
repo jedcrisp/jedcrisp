@@ -73,28 +73,28 @@
   ],
   "certifications": [
     {
-      "name": "AWS Solutions Architect",
-      "level": "Associate Level",
-      "year": "2024",
-      "icon": "fab fa-aws"
-    },
-    {
-      "name": "Microsoft Azure Fundamentals",
-      "level": "AZ-900",
-      "year": "2023",
-      "icon": "fab fa-microsoft"
-    },
-    {
       "name": "CompTIA Security+",
-      "level": "SY0-601",
-      "year": "2023",
+      "level": "Security Certification",
+      "year": "2024",
       "icon": "fas fa-shield-alt"
     },
     {
-      "name": "CompTIA Network+",
-      "level": "N10-008",
-      "year": "2022",
-      "icon": "fas fa-network-wired"
+      "name": "ITIL 4 Foundation",
+      "level": "IT Service Management",
+      "year": "2024",
+      "icon": "fas fa-graduation-cap"
+    },
+    {
+      "name": "ISC Cybersecurity Certification",
+      "level": "Cybersecurity Fundamentals",
+      "year": "2024",
+      "icon": "fas fa-shield-alt"
+    },
+    {
+      "name": "Certified Scrum Master",
+      "level": "Agile Project Management",
+      "year": "2024",
+      "icon": "fas fa-project-diagram"
     }
   ],
   "experience": [
