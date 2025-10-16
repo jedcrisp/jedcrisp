@@ -95,6 +95,18 @@
       "level": "Agile Project Management",
       "year": "2024",
       "icon": "fas fa-project-diagram"
+    },
+    {
+      "name": "Fortinet NSE 1: Network Security Associate",
+      "level": "Network Security Fundamentals",
+      "year": "2023",
+      "icon": "fas fa-network-wired"
+    },
+    {
+      "name": "Fortinet NSE 2: Network Security Associate",
+      "level": "Advanced Network Security",
+      "year": "2023",
+      "icon": "fas fa-network-wired"
     }
   ],
   "experience": [
