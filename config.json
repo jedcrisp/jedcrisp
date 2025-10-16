@@ -134,14 +134,21 @@
     {
       "title": "Chimeo - Web App with iOS Component",
       "description": "Currently developing a cross-platform web application with native iOS integration. Building modern web technologies with mobile app development to create seamless user experiences.",
-      "technologies": ["Web App", "iOS Development", "Cross-Platform", "In Development"],
-      "icon": "fas fa-mobile-alt"
+      "technologies": ["Web App", "iOS Development", "Cross-Platform", "Live Production"],
+      "icon": "fas fa-mobile-alt",
+      "links": [
+        {"url": "https://www.chimeo.app/login", "text": "Live App"},
+        {"url": "https://getchimeo.com/", "text": "Website"}
+      ]
     },
     {
       "title": "FieldFinder - Location-Based App",
       "description": "Developing a specialized web application for field and location discovery with iOS mobile components. Focusing on user experience and location-based services integration.",
-      "technologies": ["Location Services", "Web Development", "iOS App", "Active Project"],
-      "icon": "fas fa-search-location"
+      "technologies": ["Location Services", "Web Development", "iOS App", "Live Production"],
+      "icon": "fas fa-search-location",
+      "links": [
+        {"url": "https://fieldfinder.app/signin", "text": "Live App"}
+      ]
     },
     {
       "title": "Personal Portfolio Website",
