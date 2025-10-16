@@ -45,30 +45,74 @@
       "Git Version Control"
     ]
   },
-  "projects": [
+  "workProjects": [
     {
-      "title": "Cloud Migration Project",
-      "description": "Successfully migrated on-premises infrastructure to AWS, resulting in 40% cost reduction and improved scalability.",
-      "technologies": ["AWS", "EC2", "S3", "RDS"],
-      "icon": "fas fa-cloud-upload-alt"
+      "title": "Multi-Factor Authentication Deployment",
+      "description": "Successfully implemented Cisco DUO MFA solution for enterprise security, protecting 800+ users and 3000+ devices across the organization.",
+      "technologies": ["Cisco DUO", "MFA", "Enterprise Security", "800 Users"],
+      "icon": "fas fa-shield-alt"
     },
     {
-      "title": "Network Security Implementation",
-      "description": "Designed and implemented a comprehensive network security solution including firewall configuration and intrusion detection.",
-      "technologies": ["pfSense", "Wireshark", "Nmap", "IDS/IPS"],
+      "title": "SIEM Implementation",
+      "description": "Deployed Wazuh as centralized SIEM solution for comprehensive security monitoring, log analysis, and threat detection across enterprise infrastructure.",
+      "technologies": ["Wazuh", "SIEM", "Log Analysis", "Threat Detection"],
+      "icon": "fas fa-search"
+    },
+    {
+      "title": "Endpoint Detection & Response",
+      "description": "Deployed SentinelOne as external EDR solution providing advanced endpoint protection, behavioral analysis, and automated threat response.",
+      "technologies": ["SentinelOne", "EDR", "Endpoint Security", "Threat Response"],
+      "icon": "fas fa-bug"
+    },
+    {
+      "title": "IT Asset Management System",
+      "description": "Implemented Snipe-IT for comprehensive inventory management, asset tracking, and lifecycle management across all IT equipment.",
+      "technologies": ["Snipe-IT", "Asset Management", "Inventory Tracking", "Lifecycle Management"],
+      "icon": "fas fa-box"
+    },
+    {
+      "title": "vSphere Cloud Migration",
+      "description": "Migrated critical vSphere infrastructure to cloud-hosted environment with offsite disaster recovery site, ensuring business continuity and improved performance.",
+      "technologies": ["vSphere", "Cloud Migration", "Disaster Recovery", "VMware"],
+      "icon": "fas fa-cloud"
+    },
+    {
+      "title": "District-Wide Wireless Upgrade",
+      "description": "Led major network infrastructure upgrade replacing 140 access points across the district, improving wireless coverage and performance.",
+      "technologies": ["Wireless Infrastructure", "140 Access Points", "Network Upgrade", "District-Wide"],
+      "icon": "fas fa-wifi"
+    },
+    {
+      "title": "Core Network Switch Upgrade",
+      "description": "Upgraded 8 core Aruba switches from 3810s to 6200s, significantly improving network performance, capacity, and management capabilities.",
+      "technologies": ["Aruba 6200", "Network Switches", "Core Infrastructure", "Performance Upgrade"],
       "icon": "fas fa-network-wired"
     },
     {
-      "title": "Automation Scripts",
-      "description": "Developed Python and PowerShell scripts to automate routine system administration tasks, saving 20+ hours weekly.",
-      "technologies": ["Python", "PowerShell", "Automation", "Monitoring"],
-      "icon": "fas fa-robot"
+      "title": "Access Control System Modernization",
+      "description": "Led comprehensive project to update 29 of 48 Identiv door controllers, enhancing physical security and access management capabilities.",
+      "technologies": ["Identiv Controllers", "Access Control", "Physical Security", "29 Controllers"],
+      "icon": "fas fa-door-open"
     },
     {
-      "title": "Database Management System",
-      "description": "Implemented and optimized SQL Server databases with backup strategies and performance tuning.",
-      "technologies": ["SQL Server", "MySQL", "Backup", "Optimization"],
-      "icon": "fas fa-database"
+      "title": "Emergency Alert System Deployment",
+      "description": "Deployed Centegix alerting agent across all devices for emergency response capabilities, improving safety response times and communication.",
+      "technologies": ["Centegix", "Emergency Alerts", "Safety Systems", "Device-Wide Deployment"],
+      "icon": "fas fa-bell"
+    }
+  ],
+  "personalProjects": [
+    {
+      "title": "Personal Portfolio Website",
+      "description": "Developed this responsive portfolio website using vanilla HTML, CSS, and JavaScript to showcase IT skills and professional experience.",
+      "technologies": ["HTML/CSS", "JavaScript", "Responsive Design", "GitHub Pages"],
+      "icon": "fas fa-code"
+    },
+    {
+      "title": "Home Lab Environment",
+      "description": "Built comprehensive home lab for testing enterprise technologies, virtualization, and cybersecurity tools in a safe learning environment.",
+      "technologies": ["VMware", "Home Lab", "Virtualization", "Testing"],
+      "icon": "fas fa-home"
     }
   ],
   "certifications": [
