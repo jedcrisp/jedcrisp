@@ -1,0 +1,120 @@
+{
+  "personalInfo": {
+    "name": "Jed Crisp",
+    "title": "IT Professional & Technology Enthusiast",
+    "email": "jed.crisp@email.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "Your City, State",
+    "linkedin": "https://linkedin.com/in/jedcrisp",
+    "github": "https://github.com/jedcrisp",
+    "twitter": "https://twitter.com/jedcrisp"
+  },
+  "about": {
+    "description": "I'm an IT professional with a passion for technology and continuous learning. With experience in various aspects of information technology, I enjoy tackling challenging problems and implementing efficient solutions.",
+    "yearsExperience": "5+",
+    "projectsCompleted": "50+",
+    "certifications": "10+"
+  },
+  "skills": {
+    "systemAdministration": [
+      "Windows Server 2016/2019/2022",
+      "Linux (Ubuntu, CentOS, RHEL)",
+      "Active Directory",
+      "PowerShell Scripting",
+      "Bash Scripting"
+    ],
+    "cloudPlatforms": [
+      "Amazon Web Services (AWS)",
+      "Microsoft Azure",
+      "Google Cloud Platform",
+      "Docker & Kubernetes",
+      "Terraform"
+    ],
+    "cybersecurity": [
+      "Network Security",
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "SIEM Tools",
+      "Incident Response"
+    ],
+    "programming": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "HTML/CSS",
+      "Git Version Control"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Cloud Migration Project",
+      "description": "Successfully migrated on-premises infrastructure to AWS, resulting in 40% cost reduction and improved scalability.",
+      "technologies": ["AWS", "EC2", "S3", "RDS"],
+      "icon": "fas fa-cloud-upload-alt"
+    },
+    {
+      "title": "Network Security Implementation",
+      "description": "Designed and implemented a comprehensive network security solution including firewall configuration and intrusion detection.",
+      "technologies": ["pfSense", "Wireshark", "Nmap", "IDS/IPS"],
+      "icon": "fas fa-network-wired"
+    },
+    {
+      "title": "Automation Scripts",
+      "description": "Developed Python and PowerShell scripts to automate routine system administration tasks, saving 20+ hours weekly.",
+      "technologies": ["Python", "PowerShell", "Automation", "Monitoring"],
+      "icon": "fas fa-robot"
+    },
+    {
+      "title": "Database Management System",
+      "description": "Implemented and optimized SQL Server databases with backup strategies and performance tuning.",
+      "technologies": ["SQL Server", "MySQL", "Backup", "Optimization"],
+      "icon": "fas fa-database"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Solutions Architect",
+      "level": "Associate Level",
+      "year": "2024",
+      "icon": "fab fa-aws"
+    },
+    {
+      "name": "Microsoft Azure Fundamentals",
+      "level": "AZ-900",
+      "year": "2023",
+      "icon": "fab fa-microsoft"
+    },
+    {
+      "name": "CompTIA Security+",
+      "level": "SY0-601",
+      "year": "2023",
+      "icon": "fas fa-shield-alt"
+    },
+    {
+      "name": "CompTIA Network+",
+      "level": "N10-008",
+      "year": "2022",
+      "icon": "fas fa-network-wired"
+    }
+  ],
+  "experience": [
+    {
+      "period": "2022 - Present",
+      "position": "Senior IT Specialist",
+      "company": "Tech Solutions Inc.",
+      "description": "Lead system administrator responsible for managing hybrid cloud infrastructure, implementing security policies, and mentoring junior staff."
+    },
+    {
+      "period": "2020 - 2022",
+      "position": "Systems Administrator",
+      "company": "Digital Innovations LLC",
+      "description": "Managed Windows and Linux servers, implemented backup solutions, and provided technical support for 200+ users."
+    },
+    {
+      "period": "2018 - 2020",
+      "position": "IT Support Technician",
+      "company": "LocalTech Services",
+      "description": "Provided desktop support, troubleshooting, and network maintenance for small to medium-sized businesses."
+    }
+  ]
+}
