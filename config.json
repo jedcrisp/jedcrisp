@@ -191,22 +191,22 @@
   ],
   "experience": [
     {
-      "period": "2022 - Present",
-      "position": "Senior IT Specialist",
-      "company": "Tech Solutions Inc.",
-      "description": "Lead system administrator responsible for managing hybrid cloud infrastructure, implementing security policies, and mentoring junior staff."
+      "period": "July 2023 - Present",
+      "position": "System Administrator",
+      "company": "Lovejoy Independent School District",
+      "description": "Direct infrastructure and cybersecurity for over 5,000 users across multiple campuses. Implemented Cisco DUO MFA, Wazuh SIEM, SentinelOne EDR, and managed 400+ security cameras. Led migration from SCCM to Intune and on-premises AD to Entra ID while administering VMware vSphere, Fortinet firewalls, and enterprise storage systems."
     },
     {
-      "period": "2020 - 2022",
-      "position": "Systems Administrator",
-      "company": "Digital Innovations LLC",
-      "description": "Managed Windows and Linux servers, implemented backup solutions, and provided technical support for 200+ users."
+      "period": "January 2020 - July 2023",
+      "position": "Senior IT Support Specialist",
+      "company": "Celina Independent School District",
+      "description": "Managed district-wide help desk operations for 6,000+ users and lifecycle management for 10,000+ devices. Administered Google Workspace, Active Directory, and deployed Apple devices using Jamf Pro MDM. Provided Tier 2/3 support and mentored junior technicians while creating SLA tracking dashboards."
     },
     {
-      "period": "2018 - 2020",
-      "position": "IT Support Technician",
-      "company": "LocalTech Services",
-      "description": "Provided desktop support, troubleshooting, and network maintenance for small to medium-sized businesses."
+      "period": "July 2017 - January 2020",
+      "position": "IT Infrastructure Lead",
+      "company": "Quest Diagnostics",
+      "description": "Supported enterprise LAN, WAN, and voice systems for 24/7 laboratory operations. Directed IT hardware refresh projects with multi-site rollouts, supervised 2-4 contractors, and maintained mission-critical server infrastructure while ensuring regulatory compliance."
     }
   ]
 }
