@@ -558,6 +558,17 @@ section {
     margin: 0 auto;
 }
 
+.contact-content-centered {
+    display: flex;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-info {
+    text-align: center;
+}
+
 .contact-info h3 {
     font-size: 1.5rem;
     margin-bottom: 1rem;
@@ -694,6 +705,11 @@ section {
     .contact-content {
         grid-template-columns: 1fr;
         gap: 2rem;
+    }
+    
+    .contact-content-centered {
+        max-width: 100%;
+        padding: 0 1rem;
     }
     
     .timeline::before {
