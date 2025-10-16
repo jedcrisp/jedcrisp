@@ -103,16 +103,40 @@
   ],
   "personalProjects": [
     {
-      "title": "Personal Portfolio Website",
-      "description": "Developed this responsive portfolio website using vanilla HTML, CSS, and JavaScript to showcase IT skills and professional experience.",
-      "technologies": ["HTML/CSS", "JavaScript", "Responsive Design", "GitHub Pages"],
-      "icon": "fas fa-code"
+      "title": "Enterprise-Grade Home Network",
+      "description": "Built comprehensive Ubiquiti infrastructure including Dream Machine, 48-port SFP+ PoE switch, 5 access points, and 18 security cameras with dedicated NVR for complete home automation and security.",
+      "technologies": ["Ubiquiti Stack", "18 Cameras", "Dream Machine", "SFP+ Switch"],
+      "icon": "fas fa-network-wired"
     },
     {
-      "title": "Home Lab Environment",
-      "description": "Built comprehensive home lab for testing enterprise technologies, virtualization, and cybersecurity tools in a safe learning environment.",
-      "technologies": ["VMware", "Home Lab", "Virtualization", "Testing"],
-      "icon": "fas fa-home"
+      "title": "Dual Synology NAS Infrastructure",
+      "description": "Deployed two Synology servers for redundant media storage, automated backups, and Docker container hosting for various home automation and development services.",
+      "technologies": ["Synology NAS", "Docker Containers", "Media Storage", "Backup Systems"],
+      "icon": "fas fa-server"
+    },
+    {
+      "title": "Raspberry Pi Automation Cluster",
+      "description": "Implemented multiple Raspberry Pi devices for home calendar management, system monitoring, network ad-blocking, and Linux command practice environment.",
+      "technologies": ["Raspberry Pi", "Home Automation", "Ad Blocking", "Monitoring"],
+      "icon": "fab fa-raspberry-pi"
+    },
+    {
+      "title": "Personal AI/LLM Implementation",
+      "description": "Self-hosted personal Large Language Model for private AI assistance, learning about machine learning deployment, and data privacy in AI applications.",
+      "technologies": ["Personal LLM", "AI/ML", "Self-Hosted", "Privacy-First"],
+      "icon": "fas fa-brain"
+    },
+    {
+      "title": "Linux Skills Development Lab",
+      "description": "Dedicated environment for practicing Linux system administration, command-line proficiency, scripting, and exploring various Linux distributions and configurations.",
+      "technologies": ["Linux Practice", "Command Line", "System Admin", "Scripting"],
+      "icon": "fab fa-linux"
+    },
+    {
+      "title": "Personal Portfolio Website",
+      "description": "Developed this responsive portfolio website using vanilla HTML, CSS, and JavaScript to showcase IT skills and professional experience to potential employers.",
+      "technologies": ["HTML/CSS", "JavaScript", "Responsive Design", "GitHub Pages"],
+      "icon": "fas fa-code"
     }
   ],
   "certifications": [
