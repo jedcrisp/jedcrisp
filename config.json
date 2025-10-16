@@ -133,6 +133,18 @@
       "icon": "fab fa-linux"
     },
     {
+      "title": "Chimeo - Web App with iOS Component",
+      "description": "Currently developing a cross-platform web application with native iOS integration. Building modern web technologies with mobile app development to create seamless user experiences.",
+      "technologies": ["Web App", "iOS Development", "Cross-Platform", "In Development"],
+      "icon": "fas fa-mobile-alt"
+    },
+    {
+      "title": "FieldFinder - Location-Based App",
+      "description": "Developing a specialized web application for field and location discovery with iOS mobile components. Focusing on user experience and location-based services integration.",
+      "technologies": ["Location Services", "Web Development", "iOS App", "Active Project"],
+      "icon": "fas fa-search-location"
+    },
+    {
       "title": "Personal Portfolio Website",
       "description": "Developed this responsive portfolio website using vanilla HTML, CSS, and JavaScript to showcase IT skills and professional experience to potential employers.",
       "technologies": ["HTML/CSS", "JavaScript", "Responsive Design", "GitHub Pages"],
