@@ -156,7 +156,7 @@
       "technologies": ["iOS", "Swift", "Push Notifications", "Apple Store"],
       "icon": "fas fa-bell-slash",
       "links": [
-        {"url": "privacy-policy.html", "text": "Privacy Policy"}
+        {"url": "notome-privacy-policy.html", "text": "Privacy Policy"}
       ]
     },
     {
