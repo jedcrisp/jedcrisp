@@ -90,7 +90,7 @@ const observer = new IntersectionObserver(function(entries) {
 
 // Observe elements for animation
 document.addEventListener('DOMContentLoaded', function() {
-    const animatedElements = document.querySelectorAll('.skill-category, .project-card, .cert-card, .timeline-item, .stat-item');
+    const animatedElements = document.querySelectorAll('.skill-category, .project-card, .app-card, .cert-card, .timeline-item, .stat-item');
     animatedElements.forEach(el => observer.observe(el));
 });
 

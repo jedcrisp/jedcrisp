@@ -151,6 +151,15 @@
       ]
     },
     {
+      "title": "NotoMe - Push Notification Alerts",
+      "description": "A convenient iOS app that allows you to create and manage push notification alerts all in one place. Set reminders, custom notifications, and stay on top of your schedule with an intuitive interface designed for seamless alert management.",
+      "technologies": ["iOS", "Swift", "Push Notifications", "Apple Store"],
+      "icon": "fas fa-bell-slash",
+      "links": [
+        {"url": "privacy-policy.html", "text": "Privacy Policy"}
+      ]
+    },
+    {
       "title": "Personal Portfolio Website",
       "description": "Developed this responsive portfolio website using vanilla HTML, CSS, and JavaScript to showcase IT skills and professional experience to potential employers.",
       "technologies": ["HTML/CSS", "JavaScript", "Responsive Design", "GitHub Pages"],
