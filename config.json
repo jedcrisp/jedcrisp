@@ -160,6 +160,24 @@
       ]
     },
     {
+      "title": "SubsMe - Subscription Tracking",
+      "description": "Track subscriptions, renewal dates, and billing reminders in one place. Stay on top of recurring charges with a simple, privacy-focused interface—data stays on your device with optional premium iCloud sync.",
+      "technologies": ["iOS", "Swift", "Subscriptions", "Apple Store"],
+      "icon": "fas fa-receipt",
+      "links": [
+        {"url": "subsme-privacy-policy.html", "text": "Privacy Policy"}
+      ]
+    },
+    {
+      "title": "CalenMe - Calendar & Reminders",
+      "description": "Manage calendar events, schedules, and reminders with a focused iOS experience. Your plans stay organized locally on your device, with optional premium sync across your Apple devices.",
+      "technologies": ["iOS", "Swift", "Calendar", "Apple Store"],
+      "icon": "fas fa-calendar-alt",
+      "links": [
+        {"url": "calenme-privacy-policy.html", "text": "Privacy Policy"}
+      ]
+    },
+    {
       "title": "Personal Portfolio Website",
       "description": "Developed this responsive portfolio website using vanilla HTML, CSS, and JavaScript to showcase IT skills and professional experience to potential employers.",
       "technologies": ["HTML/CSS", "JavaScript", "Responsive Design", "GitHub Pages"],
