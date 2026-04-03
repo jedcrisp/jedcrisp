@@ -530,6 +530,29 @@ section {
     font-size: 0.75rem;
 }
 
+.app-premium-note {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #b45309;
+    margin: 0 0 0.5rem 0;
+}
+
+.app-features-premium {
+    margin-bottom: 1.5rem;
+}
+
+.feature-tag-premium {
+    background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+    color: #92400e;
+    border: 1px solid #fcd34d;
+}
+
+.feature-tag-premium i {
+    color: #d97706;
+}
+
 .app-links {
     display: flex;
     gap: 0.75rem;
