@@ -178,6 +178,12 @@
       ]
     },
     {
+      "title": "NotoMe, SubsMe & CalenMe — Personal Productivity",
+      "description": "Three complementary iOS apps for everyday life: NotoMe for alerts and reminders, SubsMe for subscriptions and renewals, and CalenMe for calendar and schedules. Together they align attention, finances, and time with privacy-first, on-device design.",
+      "technologies": ["iOS", "Swift", "Productivity", "Privacy-First"],
+      "icon": "fas fa-layer-group"
+    },
+    {
       "title": "Personal Portfolio Website",
       "description": "Developed this responsive portfolio website using vanilla HTML, CSS, and JavaScript to showcase IT skills and professional experience to potential employers.",
       "technologies": ["HTML/CSS", "JavaScript", "Responsive Design", "GitHub Pages"],
