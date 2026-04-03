@@ -10,9 +10,9 @@
   },
   "about": {
     "description": "I'm an IT professional with a passion for technology and continuous learning. With experience in various aspects of information technology, I enjoy tackling challenging problems and implementing efficient solutions.",
-    "yearsExperience": "5+",
+    "yearsExperience": "9+",
     "projectsCompleted": "50+",
-    "certifications": "10+"
+    "certifications": "7"
   },
   "skills": {
     "systemAdministration": [
@@ -191,6 +191,12 @@
     }
   ],
   "certifications": [
+    {
+      "name": "Associate Google Workspace Administrator",
+      "level": "Google Workspace Administration",
+      "year": "2025",
+      "icon": "fab fa-google"
+    },
     {
       "name": "CompTIA Security+",
       "level": "Security Certification",
