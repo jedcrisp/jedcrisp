@@ -178,8 +178,17 @@
       ]
     },
     {
-      "title": "NotoMe, SubsMe & CalenMe — Personal Productivity",
-      "description": "Three complementary iOS apps for everyday life: NotoMe for alerts and reminders, SubsMe for subscriptions and renewals, and CalenMe for calendar and schedules. Together they align attention, finances, and time with privacy-first, on-device design.",
+      "title": "PlannMe - Tasks, Goals & Planning",
+      "description": "Organize tasks, goals, and project plans in one place. Track what matters with a privacy-focused interface—data stays on your device with optional premium iCloud sync.",
+      "technologies": ["iOS", "Swift", "Planning", "Apple Store"],
+      "icon": "fas fa-clipboard-list",
+      "links": [
+        {"url": "privacy-policy.html", "text": "Privacy Policy"}
+      ]
+    },
+    {
+      "title": "NotoMe, SubsMe, CalenMe & PlannMe — Personal Productivity",
+      "description": "Complementary iOS apps: NotoMe for alerts, SubsMe for subscriptions, CalenMe for calendar, and PlannMe for tasks and planning. Together they align attention, finances, time, and planning with privacy-first, on-device design.",
       "technologies": ["iOS", "Swift", "Productivity", "Privacy-First"],
       "icon": "fas fa-layer-group"
     },
