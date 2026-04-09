@@ -192,7 +192,8 @@
       "technologies": ["iOS", "Swift", "TCG", "Apple Store"],
       "icon": "fas fa-clone",
       "links": [
-        {"url": "bindly-privacy-policy.html", "text": "Privacy Policy"}
+        {"url": "bindly-privacy-policy.html", "text": "Privacy Policy"},
+        {"url": "bindly-terms.html", "text": "Terms of Use"}
       ]
     },
     {
