@@ -187,6 +187,15 @@
       ]
     },
     {
+      "title": "Bindly - TCG Collection",
+      "description": "Catalog trading card collections with sets, quantities, condition, wishlists, and trades. Keep your binder organized locally with optional premium iCloud sync across devices.",
+      "technologies": ["iOS", "Swift", "TCG", "Apple Store"],
+      "icon": "fas fa-clone",
+      "links": [
+        {"url": "bindly-privacy-policy.html", "text": "Privacy Policy"}
+      ]
+    },
+    {
       "title": "NotoMe, SubsMe, CalenMe & PlannMe — Personal Productivity",
       "description": "Complementary iOS apps: NotoMe for alerts, SubsMe for subscriptions, CalenMe for calendar, and PlannMe for tasks and planning. Together they align attention, finances, time, and planning with privacy-first, on-device design.",
       "technologies": ["iOS", "Swift", "Productivity", "Privacy-First"],
