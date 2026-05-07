@@ -143,6 +143,16 @@
       ]
     },
     {
+      "title": "Waypoint - Non-Discrimination Testing Platform",
+      "description": "A focused platform for running and documenting non-discrimination testing workflows, collecting evidence, and tracking outcomes in a secure, structured process.",
+      "technologies": ["Web App", "Testing", "Compliance", "Production"],
+      "icon": "fas fa-balance-scale",
+      "links": [
+        {"url": "https://www.thewaypoint.app/signin", "text": "Open App"},
+        {"url": "https://www.thewaypoint.app/signin", "text": "Demo Login: demo@demo.com / Demo1234@"}
+      ]
+    },
+    {
       "title": "FieldFinder - Location-Based App",
       "description": "Developing a specialized web application for field and location discovery with iOS mobile components. Focusing on user experience and location-based services integration.",
       "technologies": ["Location Services", "Web Development", "iOS App", "Live Production"],
