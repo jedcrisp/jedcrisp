@@ -138,6 +138,7 @@
       "icon": "fas fa-mobile-alt",
       "links": [
         {"url": "https://www.chimeo.app/login", "text": "Live App"},
+        {"url": "https://apps.apple.com/us/app/chimeo/id6752923142", "text": "App Store"},
         {"url": "https://getchimeo.com/", "text": "Website"}
       ]
     },
@@ -156,6 +157,7 @@
       "technologies": ["iOS", "Swift", "Push Notifications", "Apple Store"],
       "icon": "fas fa-bell-slash",
       "links": [
+        {"url": "https://apps.apple.com/us/app/notome/id6754420668", "text": "App Store"},
         {"url": "notome-privacy-policy.html", "text": "Privacy Policy"}
       ]
     },
@@ -165,6 +167,7 @@
       "technologies": ["iOS", "Swift", "Subscriptions", "Apple Store"],
       "icon": "fas fa-receipt",
       "links": [
+        {"url": "https://apps.apple.com/us/app/subsme/id6761347373", "text": "App Store"},
         {"url": "subsme-privacy-policy.html", "text": "Privacy Policy"}
       ]
     },
@@ -174,6 +177,7 @@
       "technologies": ["iOS", "Swift", "Calendar", "Apple Store"],
       "icon": "fas fa-calendar-alt",
       "links": [
+        {"url": "https://apps.apple.com/us/app/calenme/id6761350561", "text": "App Store"},
         {"url": "calenme-privacy-policy.html", "text": "Privacy Policy"}
       ]
     },
@@ -183,6 +187,7 @@
       "technologies": ["iOS", "Swift", "Planning", "Apple Store"],
       "icon": "fas fa-clipboard-list",
       "links": [
+        {"url": "https://apps.apple.com/us/app/plannme/id6761348016", "text": "App Store"},
         {"url": "privacy-policy.html", "text": "Privacy Policy"}
       ]
     },
@@ -192,6 +197,7 @@
       "technologies": ["iOS", "Swift", "TCG", "Apple Store"],
       "icon": "fas fa-clone",
       "links": [
+        {"url": "https://apps.apple.com/us/app/bindly/id6761869857", "text": "App Store"},
         {"url": "bindly-privacy-policy.html", "text": "Privacy Policy"},
         {"url": "bindly-terms.html", "text": "Terms of Use"}
       ]
