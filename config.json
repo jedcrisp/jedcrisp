@@ -23,11 +23,9 @@
       "Bash Scripting"
     ],
     "cloudPlatforms": [
-      "Amazon Web Services (AWS)",
-      "Microsoft Azure",
-      "Google Cloud Platform",
-      "Docker & Kubernetes",
-      "Terraform"
+      "Google Workspace Administration",
+      "Microsoft 365 Administration",
+      "Microsoft Intune (Endpoint Management)"
     ],
     "cybersecurity": [
       "Network Security",
