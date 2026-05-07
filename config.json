@@ -96,6 +96,12 @@
       "description": "Deployed Centegix alerting agent across all devices for emergency response capabilities, improving safety response times and communication.",
       "technologies": ["Centegix", "Emergency Alerts", "Safety Systems", "Device-Wide Deployment"],
       "icon": "fas fa-bell"
+    },
+    {
+      "title": "Jamf to Mosyle Migration",
+      "description": "Led the migration from Jamf to Mosyle, reducing annual licensing costs by 80% while improving operational efficiency and management workflows for Apple devices.",
+      "technologies": ["Mosyle MDM", "Jamf Migration", "Apple Device Management", "80% Cost Reduction"],
+      "icon": "fas fa-mobile-alt"
     }
   ],
   "personalProjects": [
