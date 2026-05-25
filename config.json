@@ -157,6 +157,17 @@
       ]
     },
     {
+      "title": "Scoutboard - Job Tracking Web App",
+      "description": "A focused job tracking web app for organizing companies, roles, applications, notes, and follow-ups without the mess.",
+      "technologies": ["Web App", "Job Search", "Productivity", "Tracking"],
+      "icon": "fas fa-briefcase",
+      "links": [
+        {"url": "scoutboard-support.html", "text": "Support"},
+        {"url": "scoutboard-privacy-policy.html", "text": "Privacy Policy"},
+        {"url": "scoutboard-terms.html", "text": "Terms of Use"}
+      ]
+    },
+    {
       "title": "FieldFinder - Location-Based App",
       "description": "Developing a specialized web application for field and location discovery with iOS mobile components. Focusing on user experience and location-based services integration.",
       "technologies": ["Location Services", "Web Development", "iOS App", "Live Production"],
