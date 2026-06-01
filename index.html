@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jed Crisp - IT Professional Portfolio</title>
+    <title>Jed Crisp — Strategic IT Operations Leader</title>
+    <meta name="description" content="Jed Crisp — Strategic IT operations leader with 9+ years driving operational excellence, digital transformation, and secure enterprise infrastructure.">
+    <meta name="theme-color" content="#fbfbfd">
     <link rel="stylesheet" href="styles/main.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
     <!-- Navigation -->
     <nav class="navbar">
         <div class="nav-container">
-            <div class="nav-logo">
-                <h2>Jed Crisp</h2>
-            </div>
+            <a href="#home" class="nav-logo" aria-label="Jed Crisp home">
+                <span class="nav-logo-mark">JC</span>
+                <span class="nav-logo-text">Jed Crisp</span>
+            </a>
             <ul class="nav-menu">
                 <li><a href="#home" class="nav-link">Home</a></li>
                 <li><a href="#about" class="nav-link">About</a></li>
@@ -28,11 +28,11 @@
                 <li><a href="#experience" class="nav-link">Experience</a></li>
                 <li><a href="#contact" class="nav-link">Contact</a></li>
             </ul>
-            <div class="hamburger">
+            <button type="button" class="hamburger" aria-label="Open menu" aria-expanded="false">
                 <span class="bar"></span>
                 <span class="bar"></span>
                 <span class="bar"></span>
-            </div>
+            </button>
         </div>
     </nav>
 
@@ -40,23 +40,21 @@
     <section id="home" class="hero">
         <div class="hero-container">
             <div class="hero-content">
-                <h1 class="hero-title">
-                    Hi, I'm <span class="highlight">Jed Crisp</span>
-                </h1>
-                <p class="hero-subtitle">IT Professional & Technology Enthusiast</p>
+                <p class="hero-eyebrow">Strategic IT Operations Leader</p>
+                <h1 class="hero-title">Jed Crisp</h1>
+                <p class="hero-subtitle">Operational excellence and digital transformation across enterprise environments.</p>
                 <p class="hero-description">
-                    Passionate about leveraging technology to solve complex problems and drive innovation. 
-                    Specialized in system administration, cloud computing, and cybersecurity.
+                    Nine-plus years aligning technology roadmaps with business goals, leading multi-site infrastructure, and improving service delivery and security—from issue ownership through resolution.
                 </p>
                 <div class="hero-buttons">
-                    <a href="#projects" class="btn btn-primary">View My Work</a>
-                    <a href="#contact" class="btn btn-secondary">Get In Touch</a>
+                    <a href="#apps" class="btn btn-primary">View applications</a>
+                    <a href="#contact" class="btn btn-secondary">Contact</a>
                 </div>
             </div>
             <div class="hero-image">
                 <div class="profile-card">
                     <div class="profile-img">
-                        <img src="images/profile.jpg" alt="Jed Crisp - IT Professional" />
+                        <img src="images/profile.jpg" alt="Jed Crisp - Strategic IT Operations Leader" />
                     </div>
                 </div>
             </div>
@@ -70,14 +68,13 @@
             <div class="about-content">
                 <div class="about-text">
                     <p>
-                        I'm an IT professional with a passion for technology and continuous learning. 
-                        With experience in various aspects of information technology, I enjoy tackling 
-                        challenging problems and implementing efficient solutions.
+                        Strategic IT operations leader with over 9 years of experience driving operational excellence and digital transformation across enterprise environments. Expert in aligning technology roadmaps with organizational objectives, managing multi-site infrastructure, and leading cross-functional teams to improve service delivery and security posture.
                     </p>
                     <p>
-                        My expertise spans across multiple domains including system administration, 
-                        cloud platforms, cybersecurity, and software development. I believe in 
-                        staying current with emerging technologies and best practices in the industry.
+                        I take immense pride in my ability to take full ownership of issues from inception to resolution, ensuring high-quality outcomes and operational continuity. Proven track record in vendor management, high-level project coordination, and optimizing IT governance through the implementation of scalable frameworks and automated workflows.
+                    </p>
+                    <p>
+                        Dedicated to leveraging technical expertise to deliver business value and support long-term institutional growth.
                     </p>
                     <div class="stats">
                         <div class="stat-item">
@@ -145,11 +142,16 @@
                     </ul>
                 </div>
                 <div class="skill-category">
-                    <h3><i class="fas fa-cloud"></i> Cloud Platforms</h3>
+                    <h3><i class="fas fa-cloud"></i> Cloud Platforms &amp; SaaS Technologies</h3>
                     <ul>
-                        <li>Google Workspace Administration</li>
-                        <li>Microsoft 365 Administration</li>
-                        <li>Microsoft Intune (Endpoint Management)</li>
+                        <li>Microsoft Azure / Entra ID</li>
+                        <li>Microsoft 365 (Exchange Online, SharePoint, Teams, OneDrive)</li>
+                        <li>Google Workspace / Google Admin Console</li>
+                        <li>Firebase</li>
+                        <li>Barracuda RMM</li>
+                        <li>Commvault Cloud</li>
+                        <li>Jamf Pro</li>
+                        <li>Mosyle MDM</li>
                     </ul>
                 </div>
                 <div class="skill-category">
@@ -368,6 +370,19 @@
                     </div>
                     <div class="project-card">
                         <div class="project-icon">
+                            <i class="fas fa-project-diagram"></i>
+                        </div>
+                        <h3>n8n Workflow Automation</h3>
+                        <p>Built personal n8n automations to streamline daily IT and home-lab workflows—notifications, data sync, and routine tasks—so repetitive work stays hands-off and consistent.</p>
+                        <div class="project-tech">
+                            <span>n8n</span>
+                            <span>Automation</span>
+                            <span>Workflows</span>
+                            <span>Productivity</span>
+                        </div>
+                    </div>
+                    <div class="project-card">
+                        <div class="project-icon">
                             <i class="fab fa-raspberry-pi"></i>
                         </div>
                         <h3>Raspberry Pi Automation Cluster</h3>
@@ -469,7 +484,7 @@
         <div class="container">
             <h2 class="section-title">My Applications</h2>
             <div class="apps-intro">
-                <p>Explore the live applications I've developed and deployed. These production apps serve real users and demonstrate practical implementations of modern web technologies.</p>
+                <p class="section-lead">Production apps and platforms—built for real users, maintained with the same care I bring to enterprise IT.</p>
             </div>
             <div class="apps-grid">
                 <div class="app-card featured">
@@ -579,56 +594,6 @@
                         <span>Testing</span>
                         <span>Compliance</span>
                         <span>Production</span>
-                    </div>
-                </div>
-
-                <div class="app-card featured">
-                    <div class="app-header">
-                        <div class="app-icon">
-                            <i class="fas fa-briefcase"></i>
-                        </div>
-                        <div class="app-status">
-                            <span class="status-badge live">Live</span>
-                        </div>
-                    </div>
-                    <h3>Scoutboard</h3>
-                    <p class="app-category">Job Tracking Web App</p>
-                    <p class="app-description">
-                        Scoutboard helps job seekers organize companies, roles, applications, and follow-ups in one focused place so the search stays clear without the mess.
-                    </p>
-                    <div class="app-features">
-                        <div class="feature-tag">
-                            <i class="fas fa-check-circle"></i>
-                            <span>Company Tracking</span>
-                        </div>
-                        <div class="feature-tag">
-                            <i class="fas fa-check-circle"></i>
-                            <span>Application Pipeline</span>
-                        </div>
-                        <div class="feature-tag">
-                            <i class="fas fa-check-circle"></i>
-                            <span>Follow-Up Notes</span>
-                        </div>
-                    </div>
-                    <div class="app-links">
-                        <a href="scoutboard-support.html" target="_blank" rel="noopener noreferrer" class="app-btn primary">
-                            <i class="fas fa-life-ring"></i>
-                            Support
-                        </a>
-                        <a href="scoutboard-privacy-policy.html" target="_blank" rel="noopener noreferrer" class="app-btn secondary">
-                            <i class="fas fa-shield-alt"></i>
-                            Privacy Policy
-                        </a>
-                        <a href="scoutboard-terms.html" target="_blank" rel="noopener noreferrer" class="app-btn secondary">
-                            <i class="fas fa-file-contract"></i>
-                            Terms of Use
-                        </a>
-                    </div>
-                    <div class="app-tech">
-                        <span>Web App</span>
-                        <span>Job Search</span>
-                        <span>Productivity</span>
-                        <span>Tracking</span>
                     </div>
                 </div>
 
@@ -975,6 +940,14 @@
             <h2 class="section-title">Professional Experience</h2>
             <div class="timeline">
                 <div class="timeline-item">
+                    <div class="timeline-date">Present</div>
+                    <div class="timeline-content">
+                        <h3>Senior IT Engineer</h3>
+                        <h4>Confidential MSP</h4>
+                        <p>Support multiple client environments across Microsoft Intune, Azure, and Microsoft 365. Administer and troubleshoot security and operations tooling including Barracuda, Commvault, Rapid7, and Microsoft Defender while delivering reliable endpoint, identity, and infrastructure outcomes for diverse organizations.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
                     <div class="timeline-date">July 2023 - Present</div>
                     <div class="timeline-content">
                         <h3>System Administrator</h3>
@@ -1034,7 +1007,8 @@
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
-            <p>&copy; 2025 Jed Crisp. All rights reserved.</p>
+            <p class="footer-copy">&copy; 2026 Jed Crisp</p>
+            <p class="footer-tagline">Lucas, Texas</p>
         </div>
     </footer>
 

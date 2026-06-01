@@ -1,7 +1,7 @@
 {
   "personalInfo": {
     "name": "Jed Crisp",
-    "title": "IT Professional & Technology Enthusiast",
+    "title": "Strategic IT Operations Leader",
     "email": "jed.crisp@email.com",
     "phone": "+1 (555) 123-4567",
     "location": "Your City, State",
@@ -9,7 +9,7 @@
     "github": "https://github.com/jedcrisp"
   },
   "about": {
-    "description": "I'm an IT professional with a passion for technology and continuous learning. With experience in various aspects of information technology, I enjoy tackling challenging problems and implementing efficient solutions.",
+    "description": "Strategic IT operations leader with over 9 years of experience driving operational excellence and digital transformation across enterprise environments. Expert in aligning technology roadmaps with organizational objectives, managing multi-site infrastructure, and leading cross-functional teams to improve service delivery and security posture. I take immense pride in my ability to take full ownership of issues from inception to resolution, ensuring high-quality outcomes and operational continuity. Proven track record in vendor management, high-level project coordination, and optimizing IT governance through the implementation of scalable frameworks and automated workflows. Dedicated to leveraging technical expertise to deliver business value and support long-term institutional growth.",
     "yearsExperience": "9+",
     "projectsCompleted": "50+",
     "certifications": "7"
@@ -23,9 +23,14 @@
       "Bash Scripting"
     ],
     "cloudPlatforms": [
-      "Google Workspace Administration",
-      "Microsoft 365 Administration",
-      "Microsoft Intune (Endpoint Management)"
+      "Microsoft Azure / Entra ID",
+      "Microsoft 365 (Exchange Online, SharePoint, Teams, OneDrive)",
+      "Google Workspace / Google Admin Console",
+      "Firebase",
+      "Barracuda RMM",
+      "Commvault Cloud",
+      "Jamf Pro",
+      "Mosyle MDM"
     ],
     "cybersecurity": [
       "Network Security",
@@ -118,6 +123,12 @@
       "icon": "fas fa-server"
     },
     {
+      "title": "n8n Workflow Automation",
+      "description": "Built personal n8n automations to streamline daily IT and home-lab workflows—notifications, data sync, and routine tasks—so repetitive work stays hands-off and consistent.",
+      "technologies": ["n8n", "Automation", "Workflows", "Productivity"],
+      "icon": "fas fa-project-diagram"
+    },
+    {
       "title": "Raspberry Pi Automation Cluster",
       "description": "Implemented multiple Raspberry Pi devices for home calendar management, system monitoring, network ad-blocking, and Linux command practice environment.",
       "technologies": ["Raspberry Pi", "Home Automation", "Ad Blocking", "Monitoring"],
@@ -154,17 +165,6 @@
       "links": [
         {"url": "https://www.thewaypoint.app/signin", "text": "Open App"},
         {"url": "https://www.thewaypoint.app/signin", "text": "Demo Login: demo@demo.com / Demo1234@"}
-      ]
-    },
-    {
-      "title": "Scoutboard - Job Tracking Web App",
-      "description": "A focused job tracking web app for organizing companies, roles, applications, notes, and follow-ups without the mess.",
-      "technologies": ["Web App", "Job Search", "Productivity", "Tracking"],
-      "icon": "fas fa-briefcase",
-      "links": [
-        {"url": "scoutboard-support.html", "text": "Support"},
-        {"url": "scoutboard-privacy-policy.html", "text": "Privacy Policy"},
-        {"url": "scoutboard-terms.html", "text": "Terms of Use"}
       ]
     },
     {
@@ -285,6 +285,12 @@
     }
   ],
   "experience": [
+    {
+      "period": "Present",
+      "position": "Senior IT Engineer",
+      "company": "Confidential MSP",
+      "description": "Support multiple client environments across Microsoft Intune, Azure, and Microsoft 365. Administer and troubleshoot security and operations tooling including Barracuda, Commvault, Rapid7, and Microsoft Defender while delivering reliable endpoint, identity, and infrastructure outcomes for diverse organizations."
+    },
     {
       "period": "July 2023 - Present",
       "position": "System Administrator",
